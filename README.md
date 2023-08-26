@@ -2,7 +2,7 @@
  
 <br>
 
-I'm an optimistic developer , I enjoy learning, coding, developing, and coffee.:coffee:
+I'm an optimistic developer , I enjoy learning, coding, developing, Angular and coffee.:coffee:
 
 <br>
 
