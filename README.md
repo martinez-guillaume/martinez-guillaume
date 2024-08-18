@@ -8,9 +8,7 @@ I'm an enthusiastic developer, I enjoy learning, coding, developing, and coffee.
 
 __Languages and Tools :__
 
-<br>
-
-<p>Here are some of the languages and tools I work with:</p>
+<p>Here are some of the languages and tools I work with </p>
 
 <br>
 
