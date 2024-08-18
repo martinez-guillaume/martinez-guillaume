@@ -5,6 +5,7 @@
 I'm an enthusiastic developer, I enjoy learning, coding, developing, and coffee. :coffee:
 
 <br>
+<br>
 
 __Languages and Tools :__
 
@@ -79,6 +80,7 @@ __Languages and Tools :__
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
 
+<br>
 <br>
 <br>
 <br>
