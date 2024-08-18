@@ -85,7 +85,6 @@ __Languages and Tools :__
 
 __You're welcome for communication :__
 
-<br>
 
 <a href="https://www.linkedin.com/in/guillaume-martinez-232602259" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillaume-martinez" height="30" width="40" />
