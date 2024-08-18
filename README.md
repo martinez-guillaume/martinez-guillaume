@@ -14,6 +14,15 @@ __Languages and Tools :__
 
 <br>
 
+<style>
+  img {
+    border: none;
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+  }
+</style>
+
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 </a>
